@@ -1,8 +1,0 @@
-{
-  "profiles": {
-    "Task 1": {
-      "commandName": "Project",
-      "commandLineArgs": "8 8"
-    }
-  }
-}
